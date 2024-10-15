@@ -7,6 +7,39 @@
   "about": "path_to",
   "privacy": "path_to",
   "terms": "path_to",
+  "adNetworks": {
+    "adMob": {
+      "enabled": true,
+      "order": 1,
+      "appId": "ca-app-pub-3940256099942544~3347511713",
+      "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+      "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+      "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "appLovin": {
+      "enabled": true,
+      "order": 2,
+      "sdkKey": "YOUR_APPLOVIN_SDK_KEY",
+      "bannerAdUnitId": "YOUR_APPLOVIN_BANNER_AD_UNIT_ID",
+      "nativeAdUnitId": "YOUR_APPLOVIN_NATIVE_AD_UNIT_ID",
+      "interstitialAdUnitId": "YOUR_APPLOVIN_INTERSTITIAL_AD_UNIT_ID"
+    },
+    "unityAds": {
+      "enabled": false,
+      "order": 3,
+      "gameId": "YOUR_UNITY_GAME_ID",
+      "bannerPlacementId": "YOUR_UNITY_BANNER_PLACEMENT_ID",
+      "nativePlacementId": "YOUR_UNITY_NATIVE_PLACEMENT_ID",
+      "interstitialPlacementId": "YOUR_UNITY_INTERSTITIAL_PLACEMENT_ID"
+    },
+    "metaAudienceNetwork": {
+      "enabled": true,
+      "order": 4,
+      "bannerPlacementId": "YOUR_META_BANNER_PLACEMENT_ID",
+      "nativePlacementId": "YOUR_META_NATIVE_PLACEMENT_ID",
+      "interstitialPlacementId": "YOUR_META_INTERSTITIAL_PLACEMENT_ID"
+    }
+  },
   "intro": [
     {
       "title": "Title 1",
