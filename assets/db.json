@@ -1,0 +1,151 @@
+{
+  "app_name": "Quizzy",
+  "app_icon": "assets/onboarding_1.png",
+  "cover": "assets/splash.png",
+  "main_color": "#FF9F98",
+  "contact": "contact@email.com",
+  "about": "path_to",
+  "privacy": "path_to",
+  "terms": "path_to",
+  "intro": [
+    {
+      "title": "Title 1",
+      "description": "Description 1",
+      "icon": "assets/onboarding_1.png"
+    },
+    {
+      "title": "Title 2",
+      "description": "Description 2",
+      "icon": "assets/onboarding_2.png"
+    },
+    {
+      "title": "Title 3",
+      "description": "Description 3",
+      "icon": "assets/onboarding_3.png"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Title",
+      "icon": "assets/onboarding_2.png",
+      "quizQuestions": [
+        {
+          "question": "In Surah Al-Fatiha, how do we ask Allah for guidance?",
+          "asset": "assets/quran.jpeg",
+          "options": [
+            "Guide us to the straight path",
+            "Forgive us our sins",
+            "Give us abundant wealth",
+            "Grant us success in life"
+          ],
+          "correct_option": "Guide us to the straight path"
+        },
+        {
+          "question": "This is example of a simple quiz question 2..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 3..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 4..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 5..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        }
+      ]
+    },
+    {
+      "title": "Title",
+      "icon": "assets/onboarding_2.png",
+      "quizQuestions": [
+        {
+          "question": "This is example of a simple quiz question 1..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 2..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 3..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 4..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        },
+        {
+          "question": "This is example of a simple quiz question 5..",
+          "asset": "assets/onboarding_1.png",
+          "options": [
+            "Answer example 1",
+            "Answer example 2",
+            "Answer example 3",
+            "Answer example 4"
+          ],
+          "correct_option": "Answer example 1"
+        }
+      ]
+    }
+  ]
+}
